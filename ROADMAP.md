@@ -11,7 +11,7 @@ The roadmap is a public progress contract. A chapter is marked complete only whe
 | Foundation | Repository architecture, README, standards, first chapter and lab | ✅ Complete |
 | Core models | OSI, TCP/IP, encapsulation | ✅ Complete |
 | Addressing | IPv4, subnetting, MAC, ARP, ICMP | ✅ Complete |
-| Transport and services | TCP, UDP, ports, DNS, DHCP, NAT | 🚧 TCP next |
+| Transport and services | TCP, UDP, ports, DNS, DHCP, NAT | 🚧 TCP, UDP, and ports complete; DNS next |
 | Network infrastructure | VLANs, switching, routing, IPv6 | 🧭 Planned |
 | Operations | Wireshark, Linux networking, troubleshooting | 🧭 Planned |
 | Career tracks | Interviews, quizzes, cheatsheets | 🧭 Planned |

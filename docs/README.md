@@ -21,7 +21,12 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 ## Transport and services
 
-TCP, UDP, Ports, DNS, DHCP, and NAT are planned.
+10. [TCP](09-TCP/README.md) — connection state, reliability, flow/congestion control, captures, and failures.
+11. [UDP](10-UDP/README.md) — datagrams, message boundaries, application reliability, multicast, and diagnosis.
+12. [Ports and Sockets](11-Ports/README.md) — service identification, socket tuples, listeners, ephemeral ports, and exposure.
+13. DNS — planned.
+14. DHCP — planned.
+15. NAT — planned.
 
 ## Infrastructure and operations
 

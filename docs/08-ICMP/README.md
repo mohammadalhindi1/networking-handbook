@@ -1,6 +1,6 @@
 # Chapter 08 — ICMP
 
-[← ARP](../07-ARP/README.md) · [Handbook](../README.md) · Next: TCP
+[← ARP](../07-ARP/README.md) · [Handbook](../README.md) · [TCP →](../09-TCP/README.md)
 
 > **Learning objectives**
 > - Explain ICMP's role in IP error reporting and diagnostics.
@@ -230,4 +230,4 @@ It reveals some reachability information, but ICMP also provides essential contr
 
 ## 13. Summary
 
-ICMP communicates IP-layer status and diagnostic information. Ping samples Echo behavior; traceroute exploits packet lifetime; PMTUD depends on size feedback. Interpret ICMP together with actual service traffic and never equate blocked Echo with a dead host. Next comes TCP, where reliable byte-stream transport is established end to end.
+ICMP communicates IP-layer status and diagnostic information. Ping samples Echo behavior; traceroute exploits packet lifetime; PMTUD depends on size feedback. Interpret ICMP together with actual service traffic and never equate blocked Echo with a dead host. Continue with [TCP](../09-TCP/README.md), where reliable byte-stream transport is established end to end.

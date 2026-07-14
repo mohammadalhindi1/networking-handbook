@@ -69,7 +69,10 @@ flowchart TD
 | 06 | [MAC Address](docs/06-MAC-Address/README.md) | ✅ |
 | 07 | [ARP](docs/07-ARP/README.md) | ✅ |
 | 08 | [ICMP](docs/08-ICMP/README.md) | ✅ |
-| 09–14 | TCP, UDP, Ports, DNS, DHCP, NAT | 🧭 |
+| 09 | [TCP](docs/09-TCP/README.md) | ✅ |
+| 10 | [UDP](docs/10-UDP/README.md) | ✅ |
+| 11 | [Ports](docs/11-Ports/README.md) | ✅ |
+| 12–14 | DNS, DHCP, NAT | 🧭 |
 | 15–18 | VLANs, Switching, Routing, IPv6 | 🧭 |
 | 19–21 | Wireshark, Linux Networking, Troubleshooting | 🧭 |
 | 22–24 | Interviews, Quizzes, Cheatsheets | 🧭 |
