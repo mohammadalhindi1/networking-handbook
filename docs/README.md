@@ -26,7 +26,7 @@ Read chapters in order if you are new to networking. Experienced readers can use
 12. [Ports and Sockets](11-Ports/README.md) — service identification, socket tuples, listeners, ephemeral ports, and exposure.
 13. [DNS](12-DNS/README.md) — recursive resolution, authoritative data, caching, transport, packet analysis, and diagnosis.
 14. [DHCP](13-DHCP/README.md) — DORA, leases, options, relay, IPv6 configuration, security, and diagnosis.
-15. NAT — planned.
+15. [NAT](14-NAT/README.md) — SNAT, DNAT, PAT, state, port forwarding, cloud gateways, and diagnosis.
 14. DHCP — planned.
 15. NAT — planned.
 

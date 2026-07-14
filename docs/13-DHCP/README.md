@@ -1,6 +1,6 @@
 # Chapter 13 — Dynamic Host Configuration Protocol (DHCP)
 
-[← DNS](../12-DNS/README.md) · [Handbook](../README.md) · Next: NAT
+[← DNS](../12-DNS/README.md) · [Handbook](../README.md) · [NAT →](../14-NAT/README.md)
 
 > **Learning objectives**
 > - Follow DHCPv4 discovery, offer, request, acknowledgment, renewal, and rebinding.
