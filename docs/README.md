@@ -9,7 +9,7 @@ Read chapters in order if you are new to networking. Experienced readers can use
 1. [Networking Basics](00-Networking-Basics/README.md) — what a network is, core components, delivery types, performance, and a first packet journey.
 2. [OSI Model](01-OSI-Model/README.md) — seven layers, encapsulation, troubleshooting, packet analysis, and modern infrastructure mapping.
 3. [TCP/IP Model](02-TCP-IP-Model/README.md) — the deployed Internet stack, OSI mapping, protocol flow, Linux evidence, and troubleshooting.
-4. Data Encapsulation — planned.
+4. [Data Encapsulation](03-Data-Encapsulation/README.md) — headers, trailers, MTU, segmentation, forwarding changes, capture analysis, and troubleshooting.
 
 ## Addressing and local delivery
 

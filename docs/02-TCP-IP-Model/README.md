@@ -1,6 +1,6 @@
 # Chapter 02 — The TCP/IP Model
 
-[← OSI Model](../01-OSI-Model/README.md) · [Handbook](../README.md) · Next: Data Encapsulation
+[← OSI Model](../01-OSI-Model/README.md) · [Handbook](../README.md) · [Data Encapsulation →](../03-Data-Encapsulation/README.md)
 
 > **Learning objectives**
 > - Explain the four layers of the TCP/IP model and their responsibilities.
@@ -343,4 +343,4 @@ No. Pods, Services, ingress/gateways, DNS, overlays, and policies are abstractio
 
 ## 13. Summary
 
-The TCP/IP model organizes Internet communication into Application, Transport, Internet, and Network Access. Applications exchange messages, transport connects processes, IP moves packets across networks, and link technologies deliver frames on each hop. Use OSI for detailed conceptual separation and TCP/IP for the deployed protocol suite. Strong troubleshooting tests each responsibility independently and follows evidence across layer boundaries.
+The TCP/IP model organizes Internet communication into Application, Transport, Internet, and Network Access. Applications exchange messages, transport connects processes, IP moves packets across networks, and link technologies deliver frames on each hop. Use OSI for detailed conceptual separation and TCP/IP for the deployed protocol suite. Strong troubleshooting tests each responsibility independently and follows evidence across layer boundaries. Continue with [Data Encapsulation](../03-Data-Encapsulation/README.md) to inspect exactly how each layer carries the one above it.

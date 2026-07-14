@@ -63,7 +63,7 @@ flowchart TD
 | 00 | [Networking Basics](docs/00-Networking-Basics/README.md) | ✅ |
 | 01 | [OSI Model](docs/01-OSI-Model/README.md) | ✅ |
 | 02 | [TCP/IP Model](docs/02-TCP-IP-Model/README.md) | ✅ |
-| 03 | Data Encapsulation | 🧭 |
+| 03 | [Data Encapsulation](docs/03-Data-Encapsulation/README.md) | ✅ |
 | 04 | IP Addressing | 🧭 |
 | 05 | Subnetting | 🧭 |
 | 06–08 | MAC Address, ARP, ICMP | 🧭 |
@@ -96,6 +96,12 @@ The labs are designed to work on a Linux machine or WSL. Each one includes an ob
 Start with [Lab 01: Observe basic connectivity](labs/01-basic-connectivity/README.md), where you inspect interfaces and routes, test reachability, and capture ICMP traffic.
 
 Planned lab tracks include ARP, DNS, TCP handshakes, HTTP/HTTPS, Linux routing, Docker networks, Kubernetes Services and DNS, and AWS VPC routing.
+
+## Quick references
+
+- [Protocol Data Units and headers](cheatsheets/pdu-and-headers.md)
+- [Lab index](labs/README.md)
+- [Documentation roadmap](ROADMAP.md)
 
 ## Troubleshooting method
 
