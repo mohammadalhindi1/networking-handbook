@@ -15,7 +15,7 @@ The roadmap is a public progress contract. A chapter is marked complete only whe
 | Network infrastructure | VLANs, switching, routing, IPv6 | ✅ Complete |
 | Operations | Wireshark, Linux networking, troubleshooting | ✅ Complete |
 | Career tracks | Interviews, quizzes, cheatsheets | ✅ Complete |
-| Platform networking | DevOps, Docker, Kubernetes, AWS | 🚧 DevOps networking next |
+| Platform networking | DevOps, Docker, Kubernetes, AWS | 🚧 DevOps complete; Docker next |
 
 ## Definition of done
 

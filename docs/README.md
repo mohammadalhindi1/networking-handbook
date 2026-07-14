@@ -50,7 +50,9 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 See [References and Further Reading](../REFERENCES.md) for chapter-mapped RFCs, books, and official documentation.
 
-DevOps Networking, Docker Networking, Kubernetes Networking, and AWS Networking are planned.
+26. [DevOps Networking](25-DevOps-Networking/README.md) — delivery paths, health, retries, discovery, IaC, observability, and incidents.
+
+Docker Networking, Kubernetes Networking, and AWS Networking are planned.
 
 ## Documentation standard
 

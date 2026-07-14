@@ -1,6 +1,6 @@
 # Chapter 24 — Networking Cheatsheets Collection
 
-[← Comprehensive Quiz](../23-Quiz/README.md) · [Handbook](../README.md) · Next: DevOps Networking
+[← Comprehensive Quiz](../23-Quiz/README.md) · [Handbook](../README.md) · [DevOps Networking →](../25-DevOps-Networking/README.md)
 
 > **Purpose:** Fast recall after concepts are understood. Cheatsheets are not replacements for the handbook chapters or official references.
 

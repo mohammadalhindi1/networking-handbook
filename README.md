@@ -85,7 +85,8 @@ flowchart TD
 | 22 | [Interview Preparation](docs/22-Interview/README.md) | ✅ |
 | 23 | [Comprehensive Quiz](docs/23-Quiz/README.md) | ✅ |
 | 24 | [Cheatsheets Collection](docs/24-Cheatsheets/README.md) | ✅ |
-| 25–28 | DevOps, Docker, Kubernetes, AWS Networking | 🧭 |
+| 25 | [DevOps Networking](docs/25-DevOps-Networking/README.md) | ✅ |
+| 26–28 | Docker, Kubernetes, AWS Networking | 🚧 |
 
 Legend: ✅ complete · 🚧 in progress · 🧭 planned. See the detailed [roadmap](ROADMAP.md).
 
