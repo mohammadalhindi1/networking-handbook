@@ -120,6 +120,7 @@ The complete lab track progresses from local connectivity and packet inspection 
 - [IPv4 subnetting](cheatsheets/ipv4-subnetting.md)
 - [Lab index](labs/README.md)
 - [Documentation roadmap](ROADMAP.md)
+- [Release changelog](CHANGELOG.md)
 - [Standards, books, and official references](REFERENCES.md)
 
 ## Troubleshooting method
