@@ -9,8 +9,9 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [01 — Observe basic connectivity](01-basic-connectivity/README.md) | Interfaces, routes, ping, packet capture | ✅ |
 | [02 — Observe the TCP/IP stack](02-observe-tcp-ip-stack/README.md) | DNS, routes, TCP/TLS, layered capture | ✅ |
 | [03 — Inspect encapsulation](03-inspect-encapsulation/README.md) | Headers, payloads, MTU, packet bytes | ✅ |
-| 04 — Observe ARP | Neighbor cache and ARP frames | 🧭 |
-| 05 — Trace DNS resolution | Resolver, queries, response fields | 🧭 |
+| [04 — Audit local IP configuration](04-audit-ip-configuration/README.md) | Addresses, scope, prefix, routes, source selection | ✅ |
+| 05 — Observe ARP | Neighbor cache and ARP frames | 🧭 |
+| 06 — Trace DNS resolution | Resolver, queries, response fields | 🧭 |
 | 06 — Inspect a TCP handshake | Flags, sequence, state | 🧭 |
 | 07 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
 | 08 — Linux network namespace | Isolated interfaces and routes | 🧭 |

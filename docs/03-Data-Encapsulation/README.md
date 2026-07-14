@@ -1,6 +1,6 @@
 # Chapter 03 — Data Encapsulation
 
-[← TCP/IP Model](../02-TCP-IP-Model/README.md) · [Handbook](../README.md) · Next: IP Addressing
+[← TCP/IP Model](../02-TCP-IP-Model/README.md) · [Handbook](../README.md) · [IP Addressing →](../04-IP-Addressing/README.md)
 
 > **Learning objectives**
 > - Explain encapsulation and de-encapsulation using correct PDU names.
@@ -325,4 +325,4 @@ Ordinary TLS protects application content, not the outer IP and transport header
 
 ## 13. Summary
 
-Encapsulation lets independent layers carry application data using their own control information. Transport adds process delivery, IP adds routed delivery, and link framing handles the current hop. Correct packet analysis depends on header-length fields, capture location, MTU, tunnels, and offload behavior. Use the [PDU quick reference](../../cheatsheets/pdu-and-headers.md) and practical lab to reinforce the packet anatomy.
+Encapsulation lets independent layers carry application data using their own control information. Transport adds process delivery, IP adds routed delivery, and link framing handles the current hop. Correct packet analysis depends on header-length fields, capture location, MTU, tunnels, and offload behavior. Use the [PDU quick reference](../../cheatsheets/pdu-and-headers.md) and practical lab to reinforce the packet anatomy, then continue with [IP Addressing](../04-IP-Addressing/README.md).

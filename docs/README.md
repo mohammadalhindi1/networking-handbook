@@ -13,7 +13,11 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 ## Addressing and local delivery
 
-IP Addressing, Subnetting, MAC Address, ARP, and ICMP are planned.
+5. [IP Addressing](04-IP-Addressing/README.md) — IPv4 structure, prefixes, address scopes, source selection, configuration, and diagnosis.
+6. Subnetting — planned.
+7. MAC Address — planned.
+8. ARP — planned.
+9. ICMP — planned.
 
 ## Transport and services
 

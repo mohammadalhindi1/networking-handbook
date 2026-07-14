@@ -64,7 +64,7 @@ flowchart TD
 | 01 | [OSI Model](docs/01-OSI-Model/README.md) | ✅ |
 | 02 | [TCP/IP Model](docs/02-TCP-IP-Model/README.md) | ✅ |
 | 03 | [Data Encapsulation](docs/03-Data-Encapsulation/README.md) | ✅ |
-| 04 | IP Addressing | 🧭 |
+| 04 | [IP Addressing](docs/04-IP-Addressing/README.md) | ✅ |
 | 05 | Subnetting | 🧭 |
 | 06–08 | MAC Address, ARP, ICMP | 🧭 |
 | 09–14 | TCP, UDP, Ports, DNS, DHCP, NAT | 🧭 |
