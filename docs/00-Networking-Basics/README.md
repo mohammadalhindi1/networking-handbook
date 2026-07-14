@@ -1,6 +1,6 @@
 # Chapter 00 — Networking Basics
 
-[← Home](../../README.md) · [Handbook](../README.md) · Next: OSI Model (planned)
+[← Home](../../README.md) · [Handbook](../README.md) · [OSI Model →](../01-OSI-Model/README.md)
 
 > **Learning objectives**
 > - Define a computer network and identify its main components.
@@ -276,4 +276,4 @@ Yes, but many components are virtualized and managed through provider APIs. The 
 
 ## 13. Summary
 
-A network connects endpoints through interfaces, media, intermediary devices, and protocols. Reliable troubleshooting starts by identifying the exact flow and collecting evidence about addressing, routes, names, ports, and packets. Continue with the OSI model to learn how engineers separate these responsibilities into layers.
+A network connects endpoints through interfaces, media, intermediary devices, and protocols. Reliable troubleshooting starts by identifying the exact flow and collecting evidence about addressing, routes, names, ports, and packets. Continue with the [OSI model](../01-OSI-Model/README.md) to learn how engineers separate these responsibilities into layers.

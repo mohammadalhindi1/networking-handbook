@@ -7,7 +7,7 @@ Read chapters in order if you are new to networking. Experienced readers can use
 ## Foundations
 
 1. [Networking Basics](00-Networking-Basics/README.md) — what a network is, core components, delivery types, performance, and a first packet journey.
-2. OSI Model — planned.
+2. [OSI Model](01-OSI-Model/README.md) — seven layers, encapsulation, troubleshooting, packet analysis, and modern infrastructure mapping.
 3. TCP/IP Model — planned.
 4. Data Encapsulation — planned.
 
