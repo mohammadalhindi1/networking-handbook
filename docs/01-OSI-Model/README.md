@@ -1,6 +1,6 @@
 # Chapter 01 — The OSI Model
 
-[← Networking Basics](../00-Networking-Basics/README.md) · [Handbook](../README.md) · Next: TCP/IP Model
+[← Networking Basics](../00-Networking-Basics/README.md) · [Handbook](../README.md) · [TCP/IP Model →](../02-TCP-IP-Model/README.md)
 
 > **Learning objectives**
 > - Explain why the OSI model exists and what each of its seven layers does.
@@ -362,4 +362,4 @@ Its traffic still uses physical, link, IP, transport, and application mechanisms
 
 ## 13. Summary
 
-The OSI model divides communication into seven responsibilities: applications and representation at the top, end-to-end transport and routing in the middle, and local delivery and signals at the bottom. Encapsulation moves data downward on the sender; de-encapsulation moves it upward on the receiver. Use the model to name the failing behavior, select evidence, and communicate clearly—while remembering that real protocols and devices can cross layer boundaries.
+The OSI model divides communication into seven responsibilities: applications and representation at the top, end-to-end transport and routing in the middle, and local delivery and signals at the bottom. Encapsulation moves data downward on the sender; de-encapsulation moves it upward on the receiver. Use the model to name the failing behavior, select evidence, and communicate clearly—while remembering that real protocols and devices can cross layer boundaries. Next, study the [TCP/IP model](../02-TCP-IP-Model/README.md) used to describe the deployed Internet protocol suite.

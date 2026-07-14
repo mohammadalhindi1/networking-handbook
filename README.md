@@ -62,7 +62,7 @@ flowchart TD
 |---:|---|:---:|
 | 00 | [Networking Basics](docs/00-Networking-Basics/README.md) | ✅ |
 | 01 | [OSI Model](docs/01-OSI-Model/README.md) | ✅ |
-| 02 | TCP/IP Model | 🧭 |
+| 02 | [TCP/IP Model](docs/02-TCP-IP-Model/README.md) | ✅ |
 | 03 | Data Encapsulation | 🧭 |
 | 04 | IP Addressing | 🧭 |
 | 05 | Subnetting | 🧭 |
