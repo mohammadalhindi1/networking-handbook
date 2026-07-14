@@ -1,6 +1,6 @@
 # Chapter 23 — Comprehensive Networking Quiz
 
-[← Interview Preparation](../22-Interview/README.md) · [Handbook](../README.md) · Next: Cheatsheets
+[← Interview Preparation](../22-Interview/README.md) · [Handbook](../README.md) · [Cheatsheets →](../24-Cheatsheets/README.md)
 
 > **Assessment goal:** Test understanding from networking basics through IPv6, packet analysis, Linux, cloud, DevOps, and troubleshooting. Complete it without notes, then review weak chapters.
 

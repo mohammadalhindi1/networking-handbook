@@ -100,3 +100,8 @@ Answer questions a careful beginner is likely to ask.
 ## 13. Summary
 
 Summarize the mental model and link to the next chapter and related lab.
+
+
+## References
+
+Link the specific RFCs, official documentation, or books used. Prefer the shared [repository references](../../REFERENCES.md) and add direct sources for version-sensitive claims.

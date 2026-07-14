@@ -17,6 +17,8 @@ Thank you for helping improve the Networking Fundamentals Handbook.
 - Use documentation address ranges such as `192.0.2.0/24`, `198.51.100.0/24`, and `203.0.113.0/24` in public examples.
 - Explain what commands do, when to use them, and how to interpret important output.
 - Mark environment-specific behavior instead of presenting it as universal.
+- Cite the relevant RFC, standard, or official documentation for protocol and version-sensitive claims.
+- Update `REFERENCES.md` when introducing a new authoritative source.
 - Do not commit credentials, tokens, personal data, private topology details, or unsanitized captures.
 - Prefer Mermaid for maintained flows; add alt text for images.
 

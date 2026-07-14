@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-f59e0b.svg)](LICENSE)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-8b5cf6)](CONTRIBUTING.md)
 
-[Start Learning](docs/00-Networking-Basics/README.md) · [View Roadmap](ROADMAP.md) · [Run a Lab](labs/README.md) · [Contribute](CONTRIBUTING.md)
+[Start Learning](docs/00-Networking-Basics/README.md) · [Roadmap](ROADMAP.md) · [Labs](labs/README.md) · [References](REFERENCES.md) · [Contribute](CONTRIBUTING.md)
 
 </div>
 
@@ -84,7 +84,7 @@ flowchart TD
 | 21 | [Troubleshooting](docs/21-Troubleshooting/README.md) | ✅ |
 | 22 | [Interview Preparation](docs/22-Interview/README.md) | ✅ |
 | 23 | [Comprehensive Quiz](docs/23-Quiz/README.md) | ✅ |
-| 24 | Cheatsheets Collection | 🚧 |
+| 24 | [Cheatsheets Collection](docs/24-Cheatsheets/README.md) | ✅ |
 | 25–28 | DevOps, Docker, Kubernetes, AWS Networking | 🧭 |
 
 Legend: ✅ complete · 🚧 in progress · 🧭 planned. See the detailed [roadmap](ROADMAP.md).
@@ -117,6 +117,7 @@ Planned lab tracks include ARP, DNS, TCP handshakes, HTTP/HTTPS, Linux routing, 
 - [IPv4 subnetting](cheatsheets/ipv4-subnetting.md)
 - [Lab index](labs/README.md)
 - [Documentation roadmap](ROADMAP.md)
+- [Standards, books, and official references](REFERENCES.md)
 
 ## Troubleshooting method
 
