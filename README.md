@@ -82,7 +82,9 @@ flowchart TD
 | 19 | [Wireshark](docs/19-Wireshark/README.md) | ✅ |
 | 20 | [Linux Networking](docs/20-Linux-Networking/README.md) | ✅ |
 | 21 | [Troubleshooting](docs/21-Troubleshooting/README.md) | ✅ |
-| 22–24 | Interviews, Quizzes, Cheatsheets | 🧭 |
+| 22 | [Interview Preparation](docs/22-Interview/README.md) | ✅ |
+| 23 | [Comprehensive Quiz](docs/23-Quiz/README.md) | ✅ |
+| 24 | Cheatsheets Collection | 🚧 |
 | 25–28 | DevOps, Docker, Kubernetes, AWS Networking | 🧭 |
 
 Legend: ✅ complete · 🚧 in progress · 🧭 planned. See the detailed [roadmap](ROADMAP.md).

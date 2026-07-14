@@ -43,7 +43,10 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 ## Career and platform tracks
 
-Interview preparation, quizzes, cheatsheets, DevOps Networking, Docker Networking, Kubernetes Networking, and AWS Networking are planned.
+23. [Interview Preparation](22-Interview/README.md) — beginner through advanced, DevOps, cloud, CCNA, and scenarios.
+24. [Comprehensive Quiz](23-Quiz/README.md) — 60-point mixed assessment with explained answer key.
+
+Cheatsheets, DevOps Networking, Docker Networking, Kubernetes Networking, and AWS Networking are planned.
 
 ## Documentation standard
 
