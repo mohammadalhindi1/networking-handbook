@@ -25,7 +25,7 @@ Read chapters in order if you are new to networking. Experienced readers can use
 11. [UDP](10-UDP/README.md) — datagrams, message boundaries, application reliability, multicast, and diagnosis.
 12. [Ports and Sockets](11-Ports/README.md) — service identification, socket tuples, listeners, ephemeral ports, and exposure.
 13. [DNS](12-DNS/README.md) — recursive resolution, authoritative data, caching, transport, packet analysis, and diagnosis.
-14. DHCP — planned.
+14. [DHCP](13-DHCP/README.md) — DORA, leases, options, relay, IPv6 configuration, security, and diagnosis.
 15. NAT — planned.
 14. DHCP — planned.
 15. NAT — planned.

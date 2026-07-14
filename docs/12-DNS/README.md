@@ -1,6 +1,6 @@
 # Chapter 12 — Domain Name System (DNS)
 
-[← Ports and Sockets](../11-Ports/README.md) · [Handbook](../README.md) · Next: DHCP
+[← Ports and Sockets](../11-Ports/README.md) · [Handbook](../README.md) · [DHCP →](../13-DHCP/README.md)
 
 > **Learning objectives**
 > - Explain recursive and iterative resolution from a client to authoritative DNS.

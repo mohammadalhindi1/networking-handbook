@@ -16,7 +16,7 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [08 — Diagnose with ICMP](08-diagnose-with-icmp/README.md) | Echo, TTL, unreachable errors, path MTU | ✅ |
 | [09 — Compare TCP and UDP](09-compare-tcp-udp/README.md) | Listeners, handshakes, datagrams, captures | ✅ |
 | [10 — Trace DNS resolution](10-trace-dns/README.md) | Resolver path, delegation, caching, packet fields | ✅ |
-| 11 — Observe DHCP | DORA, leases, options, renewal | 🧭 |
+| [11 — Audit a DHCP lease](11-audit-dhcp/README.md) | DORA, leases, options, renewal, safe diagnosis | ✅ |
 | 12 — Inspect NAT | Translation state and packet tuples | 🧭 |
 | 13 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
 | 14 — Linux network namespace | Isolated interfaces and routes | 🧭 |

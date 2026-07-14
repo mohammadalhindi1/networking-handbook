@@ -73,7 +73,8 @@ flowchart TD
 | 10 | [UDP](docs/10-UDP/README.md) | ✅ |
 | 11 | [Ports](docs/11-Ports/README.md) | ✅ |
 | 12 | [DNS](docs/12-DNS/README.md) | ✅ |
-| 13–14 | DHCP, NAT | 🧭 |
+| 13 | [DHCP](docs/13-DHCP/README.md) | ✅ |
+| 14 | NAT | 🧭 |
 | 15–18 | VLANs, Switching, Routing, IPv6 | 🧭 |
 | 19–21 | Wireshark, Linux Networking, Troubleshooting | 🧭 |
 | 22–24 | Interviews, Quizzes, Cheatsheets | 🧭 |
