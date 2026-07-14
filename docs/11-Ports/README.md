@@ -1,6 +1,6 @@
 # Chapter 11 — Ports and Sockets
 
-[← UDP](../10-UDP/README.md) · [Handbook](../README.md) · Next: DNS
+[← UDP](../10-UDP/README.md) · [Handbook](../README.md) · [DNS →](../12-DNS/README.md)
 
 > **Learning objectives**
 > - Explain TCP/UDP ports, sockets, listeners, ephemeral ports, and flow tuples.

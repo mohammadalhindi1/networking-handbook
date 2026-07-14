@@ -15,14 +15,14 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [07 — Observe ARP resolution](07-observe-arp/README.md) | Requests, replies, cache states, gratuitous ARP | ✅ |
 | [08 — Diagnose with ICMP](08-diagnose-with-icmp/README.md) | Echo, TTL, unreachable errors, path MTU | ✅ |
 | [09 — Compare TCP and UDP](09-compare-tcp-udp/README.md) | Listeners, handshakes, datagrams, captures | ✅ |
-| 05 — Observe ARP | Neighbor cache and ARP frames | 🧭 |
-| 06 — Trace DNS resolution | Resolver, queries, response fields | 🧭 |
-| 06 — Inspect a TCP handshake | Flags, sequence, state | 🧭 |
-| 07 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
-| 08 — Linux network namespace | Isolated interfaces and routes | 🧭 |
-| 09 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
-| 10 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
-| 11 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
+| [10 — Trace DNS resolution](10-trace-dns/README.md) | Resolver path, delegation, caching, packet fields | ✅ |
+| 11 — Observe DHCP | DORA, leases, options, renewal | 🧭 |
+| 12 — Inspect NAT | Translation state and packet tuples | 🧭 |
+| 13 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
+| 14 — Linux network namespace | Isolated interfaces and routes | 🧭 |
+| 15 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
+| 16 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
+| 17 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
 
 ## Lab standard
 
