@@ -1,6 +1,6 @@
 # Chapter 05 — IPv4 Subnetting
 
-[← IP Addressing](../04-IP-Addressing/README.md) · [Handbook](../README.md) · Next: MAC Address
+[← IP Addressing](../04-IP-Addressing/README.md) · [Handbook](../README.md) · [MAC Address →](../06-MAC-Address/README.md)
 
 > **Learning objectives**
 > - Calculate network, broadcast, usable range, and capacity for any IPv4 prefix.
@@ -325,4 +325,4 @@ No. A summary can attract traffic for unallocated or differently routed child ne
 
 ## 13. Summary
 
-Subnetting is binary boundary management. Prefix length determines block size and capacity; the containing block determines network and broadcast. VLSM allocates largest-first, longest-prefix match drives routing, and correct design includes return paths, growth, and non-overlap. Keep the [subnetting cheatsheet](../../cheatsheets/ipv4-subnetting.md) nearby, but verify every result by explaining the boundary.
+Subnetting is binary boundary management. Prefix length determines block size and capacity; the containing block determines network and broadcast. VLSM allocates largest-first, longest-prefix match drives routing, and correct design includes return paths, growth, and non-overlap. Keep the [subnetting cheatsheet](../../cheatsheets/ipv4-subnetting.md) nearby, but verify every result by explaining the boundary. Continue with [MAC Addressing](../06-MAC-Address/README.md) to understand local frame delivery.

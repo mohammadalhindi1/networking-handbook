@@ -15,7 +15,7 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 5. [IP Addressing](04-IP-Addressing/README.md) — IPv4 structure, prefixes, address scopes, source selection, configuration, and diagnosis.
 6. [Subnetting](05-Subnetting/README.md) — binary boundaries, host capacity, VLSM, route summarization, verification, and scenarios.
-7. MAC Address — planned.
+7. [MAC Address](06-MAC-Address/README.md) — Ethernet identity, switch learning, address types, randomization, VLAN scope, and diagnosis.
 8. ARP — planned.
 9. ICMP — planned.
 
