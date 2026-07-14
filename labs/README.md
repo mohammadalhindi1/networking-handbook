@@ -12,6 +12,8 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [04 — Audit local IP configuration](04-audit-ip-configuration/README.md) | Addresses, scope, prefix, routes, source selection | ✅ |
 | [05 — Design a VLSM address plan](05-vlsm-address-plan/README.md) | Capacity, VLSM, gateways, validation | ✅ |
 | [06 — Inspect Layer 2 identity](06-inspect-layer2-identity/README.md) | MACs, neighbors, frames, gateway identity | ✅ |
+| [07 — Observe ARP resolution](07-observe-arp/README.md) | Requests, replies, cache states, gratuitous ARP | ✅ |
+| [08 — Diagnose with ICMP](08-diagnose-with-icmp/README.md) | Echo, TTL, unreachable errors, path MTU | ✅ |
 | 05 — Observe ARP | Neighbor cache and ARP frames | 🧭 |
 | 06 — Trace DNS resolution | Resolver, queries, response fields | 🧭 |
 | 06 — Inspect a TCP handshake | Flags, sequence, state | 🧭 |

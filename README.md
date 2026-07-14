@@ -67,7 +67,8 @@ flowchart TD
 | 04 | [IP Addressing](docs/04-IP-Addressing/README.md) | ✅ |
 | 05 | [Subnetting](docs/05-Subnetting/README.md) | ✅ |
 | 06 | [MAC Address](docs/06-MAC-Address/README.md) | ✅ |
-| 07–08 | ARP, ICMP | 🧭 |
+| 07 | [ARP](docs/07-ARP/README.md) | ✅ |
+| 08 | [ICMP](docs/08-ICMP/README.md) | ✅ |
 | 09–14 | TCP, UDP, Ports, DNS, DHCP, NAT | 🧭 |
 | 15–18 | VLANs, Switching, Routing, IPv6 | 🧭 |
 | 19–21 | Wireshark, Linux Networking, Troubleshooting | 🧭 |

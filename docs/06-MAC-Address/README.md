@@ -1,6 +1,6 @@
 # Chapter 06 — MAC Addresses and Local Delivery
 
-[← Subnetting](../05-Subnetting/README.md) · [Handbook](../README.md) · Next: ARP
+[← Subnetting](../05-Subnetting/README.md) · [Handbook](../README.md) · [ARP →](../07-ARP/README.md)
 
 > **Learning objectives**
 > - Read a 48-bit Ethernet MAC address and distinguish unicast, multicast, broadcast, universal, and local forms.
@@ -280,4 +280,4 @@ No. IPv6 uses Neighbor Discovery through ICMPv6 for related functions.
 
 ## 13. Summary
 
-MAC addresses support local Layer 2 delivery. Switches learn source locations per VLAN and forward based on destination addresses; routers replace framing between links. MAC and IP are complementary, not competing identifiers. Never treat a MAC as permanent identity without context. Continue with ARP to see how IPv4 discovers the correct next-hop MAC.
+MAC addresses support local Layer 2 delivery. Switches learn source locations per VLAN and forward based on destination addresses; routers replace framing between links. MAC and IP are complementary, not competing identifiers. Never treat a MAC as permanent identity without context. Continue with [ARP](../07-ARP/README.md) to see how IPv4 discovers the correct next-hop MAC.
