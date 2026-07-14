@@ -1,6 +1,6 @@
 # Chapter 16 — Ethernet Switching
 
-[← VLANs](../15-VLAN/README.md) · [Handbook](../README.md) · Next: Routing
+[← VLANs](../15-VLAN/README.md) · [Handbook](../README.md) · [Routing →](../17-Routing/README.md)
 
 > **Learning objectives**
 > - Explain MAC learning, forwarding, filtering, flooding, and aging.

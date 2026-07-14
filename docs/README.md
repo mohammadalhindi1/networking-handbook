@@ -34,8 +34,8 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 16. [VLANs](15-VLAN/README.md) — access/trunk links, 802.1Q, inter-VLAN routing, security, and diagnosis.
 17. [Switching](16-Switching/README.md) — MAC learning, flooding, loops, STP, LACP, and Linux bridges.
-18. Routing — planned.
-19. IPv6 — planned.
+18. [Routing](17-Routing/README.md) — forwarding tables, longest-prefix match, protocols, policy, ECMP, and diagnosis.
+19. [IPv6](18-IPv6/README.md) — addressing, NDP, SLAAC, ICMPv6, dual stack, and transition.
 
 Wireshark, Linux Networking, and Troubleshooting are planned.
 

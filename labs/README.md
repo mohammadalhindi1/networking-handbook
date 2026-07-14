@@ -20,11 +20,13 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [12 — Build NAT with namespaces](12-nat-namespaces/README.md) | SNAT, connection state, two-sided capture, cleanup | ✅ |
 | [13 — Build VLANs with namespaces](13-vlan-namespaces/README.md) | 802.1Q tags, isolation, subinterfaces | ✅ |
 | [14 — Observe Linux bridge learning](14-linux-bridge-switching/README.md) | FDB learning, flooding, software switching | ✅ |
-| 15 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
-| 16 — Linux network namespace | Isolated interfaces and routes | 🧭 |
-| 17 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
-| 18 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
-| 19 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
+| [15 — Build a routed topology](15-routed-namespaces/README.md) | forwarding, routes, reverse path, captures | ✅ |
+| [16 — Observe IPv6 and NDP](16-ipv6-ndp/README.md) | link-local, /64, NDP, neighbor state | ✅ |
+| 17 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
+| 18 — Linux network namespace | Isolated interfaces and routes | 🧭 |
+| 19 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
+| 20 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
+| 21 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
 
 ## Lab standard
 
