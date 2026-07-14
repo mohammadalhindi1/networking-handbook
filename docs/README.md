@@ -37,7 +37,9 @@ Read chapters in order if you are new to networking. Experienced readers can use
 18. [Routing](17-Routing/README.md) — forwarding tables, longest-prefix match, protocols, policy, ECMP, and diagnosis.
 19. [IPv6](18-IPv6/README.md) — addressing, NDP, SLAAC, ICMPv6, dual stack, and transition.
 
-Wireshark, Linux Networking, and Troubleshooting are planned.
+20. [Wireshark](19-Wireshark/README.md) — capture strategy, filters, streams, limitations, evidence, and privacy.
+21. [Linux Networking](20-Linux-Networking/README.md) — interfaces, routes, sockets, namespaces, firewall state, and packet paths.
+22. [Troubleshooting](21-Troubleshooting/README.md) — evidence loop, failure isolation, cloud/DevOps workflows, and verification.
 
 ## Career and platform tracks
 

@@ -79,7 +79,9 @@ flowchart TD
 | 16 | [Switching](docs/16-Switching/README.md) | ✅ |
 | 17 | [Routing](docs/17-Routing/README.md) | ✅ |
 | 18 | [IPv6](docs/18-IPv6/README.md) | ✅ |
-| 19–21 | Wireshark, Linux Networking, Troubleshooting | 🧭 |
+| 19 | [Wireshark](docs/19-Wireshark/README.md) | ✅ |
+| 20 | [Linux Networking](docs/20-Linux-Networking/README.md) | ✅ |
+| 21 | [Troubleshooting](docs/21-Troubleshooting/README.md) | ✅ |
 | 22–24 | Interviews, Quizzes, Cheatsheets | 🧭 |
 | 25–28 | DevOps, Docker, Kubernetes, AWS Networking | 🧭 |
 

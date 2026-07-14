@@ -1,6 +1,6 @@
 # Chapter 18 — IPv6
 
-[← Routing](../17-Routing/README.md) · [Handbook](../README.md) · Next: Wireshark
+[← Routing](../17-Routing/README.md) · [Handbook](../README.md) · [Wireshark →](../19-Wireshark/README.md)
 
 > **Learning objectives**
 > - Read, compress, and expand IPv6 addresses and prefixes.
