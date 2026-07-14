@@ -1,6 +1,6 @@
 # Chapter 14 — Network Address Translation (NAT)
 
-[← DHCP](../13-DHCP/README.md) · [Handbook](../README.md) · Next: VLANs
+[← DHCP](../13-DHCP/README.md) · [Handbook](../README.md) · [VLANs →](../15-VLAN/README.md)
 
 > **Learning objectives**
 > - Distinguish SNAT, DNAT, static NAT, PAT/masquerading, and port forwarding.

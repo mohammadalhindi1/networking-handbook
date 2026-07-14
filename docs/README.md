@@ -32,7 +32,12 @@ Read chapters in order if you are new to networking. Experienced readers can use
 
 ## Infrastructure and operations
 
-VLANs, Switching, Routing, IPv6, Wireshark, Linux Networking, and Troubleshooting are planned.
+16. [VLANs](15-VLAN/README.md) — access/trunk links, 802.1Q, inter-VLAN routing, security, and diagnosis.
+17. [Switching](16-Switching/README.md) — MAC learning, flooding, loops, STP, LACP, and Linux bridges.
+18. Routing — planned.
+19. IPv6 — planned.
+
+Wireshark, Linux Networking, and Troubleshooting are planned.
 
 ## Career and platform tracks
 

@@ -18,11 +18,13 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [10 — Trace DNS resolution](10-trace-dns/README.md) | Resolver path, delegation, caching, packet fields | ✅ |
 | [11 — Audit a DHCP lease](11-audit-dhcp/README.md) | DORA, leases, options, renewal, safe diagnosis | ✅ |
 | [12 — Build NAT with namespaces](12-nat-namespaces/README.md) | SNAT, connection state, two-sided capture, cleanup | ✅ |
-| 13 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
-| 14 — Linux network namespace | Isolated interfaces and routes | 🧭 |
-| 15 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
-| 16 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
-| 17 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
+| [13 — Build VLANs with namespaces](13-vlan-namespaces/README.md) | 802.1Q tags, isolation, subinterfaces | ✅ |
+| [14 — Observe Linux bridge learning](14-linux-bridge-switching/README.md) | FDB learning, flooding, software switching | ✅ |
+| 15 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
+| 16 — Linux network namespace | Isolated interfaces and routes | 🧭 |
+| 17 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
+| 18 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
+| 19 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
 
 ## Lab standard
 

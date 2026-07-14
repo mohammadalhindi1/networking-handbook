@@ -75,7 +75,9 @@ flowchart TD
 | 12 | [DNS](docs/12-DNS/README.md) | ✅ |
 | 13 | [DHCP](docs/13-DHCP/README.md) | ✅ |
 | 14 | [NAT](docs/14-NAT/README.md) | ✅ |
-| 15–18 | VLANs, Switching, Routing, IPv6 | 🧭 |
+| 15 | [VLANs](docs/15-VLAN/README.md) | ✅ |
+| 16 | [Switching](docs/16-Switching/README.md) | ✅ |
+| 17–18 | Routing, IPv6 | 🚧 |
 | 19–21 | Wireshark, Linux Networking, Troubleshooting | 🧭 |
 | 22–24 | Interviews, Quizzes, Cheatsheets | 🧭 |
 | 25–28 | DevOps, Docker, Kubernetes, AWS Networking | 🧭 |
