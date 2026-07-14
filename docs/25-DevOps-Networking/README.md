@@ -1,6 +1,6 @@
 # Chapter 25 — DevOps Networking
 
-[← Cheatsheets](../24-Cheatsheets/README.md) · [Handbook](../README.md) · Next: Docker Networking
+[← Cheatsheets](../24-Cheatsheets/README.md) · [Handbook](../README.md) · [Docker Networking →](../26-Docker-Networking/README.md)
 
 > **Learning objectives**
 > - Map application delivery, CI/CD, observability, and reliability to network dependencies.

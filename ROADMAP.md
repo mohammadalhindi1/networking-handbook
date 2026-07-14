@@ -15,7 +15,7 @@ The roadmap is a public progress contract. A chapter is marked complete only whe
 | Network infrastructure | VLANs, switching, routing, IPv6 | ✅ Complete |
 | Operations | Wireshark, Linux networking, troubleshooting | ✅ Complete |
 | Career tracks | Interviews, quizzes, cheatsheets | ✅ Complete |
-| Platform networking | DevOps, Docker, Kubernetes, AWS | 🚧 DevOps complete; Docker next |
+| Platform networking | DevOps, Docker, Kubernetes, AWS | ✅ Complete |
 
 ## Definition of done
 
@@ -37,4 +37,4 @@ A chapter is complete when it has:
 - **v0.2 — Addressing:** chapters 04–08 and addressing labs.
 - **v0.3 — Delivery:** chapters 09–14 and transport/service captures.
 - **v0.4 — Infrastructure:** chapters 15–21 and troubleshooting playbooks.
-- **v1.0 — Complete handbook:** career and platform tracks, editorial review, and stable navigation.
+- **v1.0 — Complete handbook:** ✅ 29 chapters, 20 labs, career/platform tracks, mapped references, editorial review, and stable navigation.

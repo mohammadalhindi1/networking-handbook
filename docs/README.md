@@ -27,8 +27,6 @@ Read chapters in order if you are new to networking. Experienced readers can use
 13. [DNS](12-DNS/README.md) — recursive resolution, authoritative data, caching, transport, packet analysis, and diagnosis.
 14. [DHCP](13-DHCP/README.md) — DORA, leases, options, relay, IPv6 configuration, security, and diagnosis.
 15. [NAT](14-NAT/README.md) — SNAT, DNAT, PAT, state, port forwarding, cloud gateways, and diagnosis.
-14. DHCP — planned.
-15. NAT — planned.
 
 ## Infrastructure and operations
 
@@ -52,7 +50,9 @@ See [References and Further Reading](../REFERENCES.md) for chapter-mapped RFCs, 
 
 26. [DevOps Networking](25-DevOps-Networking/README.md) — delivery paths, health, retries, discovery, IaC, observability, and incidents.
 
-Docker Networking, Kubernetes Networking, and AWS Networking are planned.
+27. [Docker Networking](26-Docker-Networking/README.md) — namespaces, bridges, drivers, publishing, embedded DNS, capture analysis, and diagnosis.
+28. [Kubernetes Networking](27-Kubernetes-Networking/README.md) — Pods, CNI, Services, DNS, policy, gateways, observability, and diagnosis.
+29. [AWS Networking](28-AWS-Networking/README.md) — VPCs, routes, gateways, security controls, flow logs, hybrid paths, and diagnosis.
 
 ## Documentation standard
 

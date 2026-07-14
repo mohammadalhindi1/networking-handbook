@@ -4,7 +4,7 @@
 
 **A practical, visual, and career-focused guide to computer networking — from first principles to cloud-native infrastructure.**
 
-[![Status](https://img.shields.io/badge/status-active%20development-0ea5e9)](ROADMAP.md)
+[![Status](https://img.shields.io/badge/status-v1.0%20complete-16a34a)](ROADMAP.md)
 [![Documentation](https://img.shields.io/badge/docs-handbook-2563eb)](docs/README.md)
 [![Labs](https://img.shields.io/badge/learning-hands--on-16a34a)](labs/README.md)
 [![License: MIT](https://img.shields.io/badge/license-MIT-f59e0b.svg)](LICENSE)
@@ -22,7 +22,7 @@ Networking is the foundation beneath web applications, containers, cloud platfor
 
 It is designed for students, CCNA learners, DevOps and cloud engineers, backend developers, cybersecurity learners, and software engineers who want to understand what actually happens between two endpoints.
 
-> This is an evolving handbook. Completed chapters are marked clearly; planned links remain visible so the full learning path is easy to understand.
+> **Version 1.0 is complete:** 29 structured chapters, 20 hands-on labs, a 60-point assessment, concise cheatsheets, and mapped technical references.
 
 ## Learning goals
 
@@ -86,7 +86,9 @@ flowchart TD
 | 23 | [Comprehensive Quiz](docs/23-Quiz/README.md) | ✅ |
 | 24 | [Cheatsheets Collection](docs/24-Cheatsheets/README.md) | ✅ |
 | 25 | [DevOps Networking](docs/25-DevOps-Networking/README.md) | ✅ |
-| 26–28 | Docker, Kubernetes, AWS Networking | 🚧 |
+| 26 | [Docker Networking](docs/26-Docker-Networking/README.md) | ✅ |
+| 27 | [Kubernetes Networking](docs/27-Kubernetes-Networking/README.md) | ✅ |
+| 28 | [AWS Networking](docs/28-AWS-Networking/README.md) | ✅ |
 
 Legend: ✅ complete · 🚧 in progress · 🧭 planned. See the detailed [roadmap](ROADMAP.md).
 
@@ -110,7 +112,7 @@ The labs are designed to work on a Linux machine or WSL. Each one includes an ob
 
 Start with [Lab 01: Observe basic connectivity](labs/01-basic-connectivity/README.md), where you inspect interfaces and routes, test reachability, and capture ICMP traffic.
 
-Planned lab tracks include ARP, DNS, TCP handshakes, HTTP/HTTPS, Linux routing, Docker networks, Kubernetes Services and DNS, and AWS VPC routing.
+The complete lab track progresses from local connectivity and packet inspection to VLANs, routing, IPv6, Docker networks, Kubernetes Services, and AWS VPC flow analysis.
 
 ## Quick references
 
@@ -150,7 +152,7 @@ Use evidence and move through the stack:
 
 ## Interview preparation
 
-Interview content is integrated into every chapter so questions remain connected to the underlying concept. A dedicated interview track will group beginner, intermediate, advanced, DevOps, cloud, CCNA, and scenario-based questions for focused revision.
+Interview content is integrated into every chapter so questions remain connected to the underlying concept. The dedicated [interview track](docs/22-Interview/README.md) groups beginner, intermediate, advanced, DevOps, cloud, CCNA, and scenario-based questions for focused revision.
 
 ## Contributing
 

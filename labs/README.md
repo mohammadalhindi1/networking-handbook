@@ -23,11 +23,9 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [15 — Build a routed topology](15-routed-namespaces/README.md) | forwarding, routes, reverse path, captures | ✅ |
 | [16 — Observe IPv6 and NDP](16-ipv6-ndp/README.md) | link-local, /64, NDP, neighbor state | ✅ |
 | [17 — Evidence-driven packet analysis](17-packet-analysis/README.md) | capture scope, timeline, observations vs inference | ✅ |
-| 18 — Compare HTTP and HTTPS | Application data and encryption boundaries | 🧭 |
-| 19 — Linux network namespace | Isolated interfaces and routes | 🧭 |
-| 20 — Docker networking | Bridge, port publishing, container DNS | 🧭 |
-| 21 — Kubernetes networking | Pod, Service, DNS, policy | 🧭 |
-| 22 — AWS VPC path | Subnets, routes, gateways, security controls | 🧭 |
+| [18 — Inspect a Docker network](18-docker-networking/README.md) | Bridge, port publishing, container DNS, capture evidence | ✅ |
+| [19 — Trace a Kubernetes Service](19-kubernetes-service/README.md) | Pod, Service, DNS, EndpointSlice, policy | ✅ |
+| [20 — Trace an AWS VPC flow](20-aws-vpc-flow/README.md) | Subnets, routes, gateways, security controls, flow logs | ✅ |
 
 ## Lab standard
 
