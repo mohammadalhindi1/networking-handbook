@@ -65,7 +65,7 @@ flowchart TD
 | 02 | [TCP/IP Model](docs/02-TCP-IP-Model/README.md) | ✅ |
 | 03 | [Data Encapsulation](docs/03-Data-Encapsulation/README.md) | ✅ |
 | 04 | [IP Addressing](docs/04-IP-Addressing/README.md) | ✅ |
-| 05 | Subnetting | 🧭 |
+| 05 | [Subnetting](docs/05-Subnetting/README.md) | ✅ |
 | 06–08 | MAC Address, ARP, ICMP | 🧭 |
 | 09–14 | TCP, UDP, Ports, DNS, DHCP, NAT | 🧭 |
 | 15–18 | VLANs, Switching, Routing, IPv6 | 🧭 |
@@ -100,6 +100,7 @@ Planned lab tracks include ARP, DNS, TCP handshakes, HTTP/HTTPS, Linux routing, 
 ## Quick references
 
 - [Protocol Data Units and headers](cheatsheets/pdu-and-headers.md)
+- [IPv4 subnetting](cheatsheets/ipv4-subnetting.md)
 - [Lab index](labs/README.md)
 - [Documentation roadmap](ROADMAP.md)
 

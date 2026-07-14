@@ -10,6 +10,7 @@ These labs turn concepts into observable behavior. Run them only on systems and 
 | [02 — Observe the TCP/IP stack](02-observe-tcp-ip-stack/README.md) | DNS, routes, TCP/TLS, layered capture | ✅ |
 | [03 — Inspect encapsulation](03-inspect-encapsulation/README.md) | Headers, payloads, MTU, packet bytes | ✅ |
 | [04 — Audit local IP configuration](04-audit-ip-configuration/README.md) | Addresses, scope, prefix, routes, source selection | ✅ |
+| [05 — Design a VLSM address plan](05-vlsm-address-plan/README.md) | Capacity, VLSM, gateways, validation | ✅ |
 | 05 — Observe ARP | Neighbor cache and ARP frames | 🧭 |
 | 06 — Trace DNS resolution | Resolver, queries, response fields | 🧭 |
 | 06 — Inspect a TCP handshake | Flags, sequence, state | 🧭 |

@@ -1,6 +1,6 @@
 # Chapter 04 — IP Addressing
 
-[← Data Encapsulation](../03-Data-Encapsulation/README.md) · [Handbook](../README.md) · Next: Subnetting
+[← Data Encapsulation](../03-Data-Encapsulation/README.md) · [Handbook](../README.md) · [Subnetting →](../05-Subnetting/README.md)
 
 > **Learning objectives**
 > - Read an IPv4 address and CIDR prefix as network and host bits.
@@ -312,4 +312,4 @@ It creates collisions with real Internet destinations and breaks routing. Use al
 
 ## 13. Summary
 
-IPv4 addresses are 32-bit logical interface identifiers interpreted together with a prefix. Correct delivery depends on connected prefixes, longest-prefix route selection, source address, gateways, and return paths. Learn the special ranges and inspect real kernel decisions rather than guessing from address appearance. Chapter 05 will turn this foundation into systematic subnet calculations.
+IPv4 addresses are 32-bit logical interface identifiers interpreted together with a prefix. Correct delivery depends on connected prefixes, longest-prefix route selection, source address, gateways, and return paths. Learn the special ranges and inspect real kernel decisions rather than guessing from address appearance. Continue with [Subnetting](../05-Subnetting/README.md) to turn this foundation into systematic calculations.
